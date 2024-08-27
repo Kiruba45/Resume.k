@@ -1,0 +1,96 @@
+DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Kiruba K</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            font-size: 28px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        h2 {
+            font-size: 22px;
+            border-bottom: 2px solid #000;
+            padding-bottom: 5px;
+            margin-top: 30px;
+            margin-bottom: 10px;
+        }
+        p, ul {
+            margin-bottom: 10px;
+        }
+        ul {
+            list-style-type: square;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Kiruba K</h1>
+        <p>
+            3/243, Deevattipatty(PO), Kadaiyampatty(TK), Salem(DT) 636351<br>
+            Phone: 6380214468<br>
+            Email: <a href="mailto:kirubakumar468@gmail.com">kirubakumar468@gmail.com</a>
+        </p>
+
+        <h2>Objective</h2>
+        <p>To enhance my professional skills, capabilities, and knowledge in an organization which recognizes the value of hard work and trusts me with responsibilities and challenges.</p>
+
+        <h2>Education</h2>
+        <ul>
+            <li>BE in Computer Science And Engineering, RP Sarathy Institute of Technology, Poosaripatty - 7.47%</li>
+            <li>DME in Mechanical Engineering, The Kaavery Polytechnic College, Mecheri - 87%</li>
+            <li>SSLC, Govt High School, Deevattipatty - 77%</li>
+        </ul>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>C Programming</li>
+        </ul>
+
+        <h2>Projects</h2>
+        <ul>
+            <li>Chatbot based on restaurant</li>
+            <li>E-commerce website</li>
+        </ul>
+
+        <h2>Publications</h2>
+        <p>Certification Id: IJAEMA/8955</p>
+        <p>"Utilizing algorithmic machine learning for informed project forecasting: advancing an artificial intelligent framework for predicting project success."</p>
+
+        <h2>Languages</h2>
+        <ul>
+            <li>Tamil</li>
+            <li>English</li>
+        </ul>
+
+        <h2>Event Participation</h2>
+        <ul>
+            <li>National Level Technical Fest - Defensezoid as Translify</li>
+            <li>National Level Technical Program - Codex</li>
+        </ul>
+
+        <h2>Hobbies</h2>
+        <ul>
+            <li>Sports</li>
+            <li>Fitness</li>
+        </ul>
+    </div>
+</body>
+</html>
